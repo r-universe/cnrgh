@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "fscache"]
+	path = fscache
+	url = https://gitlab.com/cnrgh/databases/r-fscache
+[submodule "sched"]
+	path = sched
+	url = https://gitlab.com/cnrgh/databases/r-sched
+[submodule "sqlq"]
+	path = sqlq
+	url = https://gitlab.com/cnrgh/databases/r-sqlq
